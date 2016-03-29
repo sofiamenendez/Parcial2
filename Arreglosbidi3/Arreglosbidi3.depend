@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457476352 source:c:\users\si\desktop\sofiaprogra\parcial 2\arreglosbidi3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

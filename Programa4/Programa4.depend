@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1457390116 source:c:\users\si\desktop\sofiaprogra\parcial 2\programa4\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

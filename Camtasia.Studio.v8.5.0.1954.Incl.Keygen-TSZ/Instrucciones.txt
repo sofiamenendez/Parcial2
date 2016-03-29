@@ -1,0 +1,259 @@
+--------------------------
+I N S T R U C C I O N E S 
+--------------------------
+
+1.- Desactivar el internet.
+2.- Instale el Programa, con los datos:
+
+USER....: www.intercambiosvirtuales.org
+SERIAL..: C5CMY-KCKHZ-BEGCC-C5K79-3RMED
+	  XWACD-F4CBC-9YC9C-HCBF4-AE783
+	  LZ5WC-WMFYC-KBZCC-CMCP4-J96E9
+	  MAZLH-C5CHS-CDYFC-CCHMG-M26R9
+	  FCFCM-NYCCC-HBBCC-2RACH-5E4BE
+	  CCXBM-CACCC-5XAYK-L9MWA-PEA95
+	  KACD4-7CDBH-2E6FC-CCHMM-ABC7B
+	  ZCCCX-6C9LC-C6D4C-3F35D-2B3M4
+	  GCABC-CPCCE-BPMMB-XAJXP-S8F6R
+	  EA5AC-CLMAM-A8W6W-EZLYM-LM58F
+	  HLCZF-HDCPL-KGB6W-ZSCAZ-VF6A2
+
+IMPORTANTE:
+El archivo hosts: %WINDIR%\system32\drivers\etc\hosts
+NO DEBE TENER bloqueado estas direcciones:
+
+activation.cloud.techsmith.com
+oscount.techsmith.com
+65.52.240.48
+69.167.144.18
+
+Borrarlo si los tienes en tu archivo hosts, de otro modo no te aceptara los # de serie.
+
+Luego de que acepte tu # de serie, ya puedes ejecutar "disable_activation.cmd" (clic derecho-> Ejecutar como administrador)
+
+Ya puedes activar el internet.
+
+
+Listo !!!!
+
+Nota. Analisis en VirusTotal: https://www.virustotal.com/en/file/d7606155185cf8a9aa78a56cf486ed48ede0119490e1f087c03d502890c475c9/analysis/
+      Usarlo bajo su responsabilidad.
+
+=================================================
+Visita: www.intercambiosvirtuales.org
+Dudas y Sugerencias: www.intercambiosos.org
+=================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================================================
+Visita: www.intercambiosvirtuales.org
+Dudas y Sugerencias: www.intercambiosos.org
+=================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=================================================
+Visita: www.intercambiosvirtuales.org
+Dudas y Sugerencias: www.intercambiosos.org
+=================================================
