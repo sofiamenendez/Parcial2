@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457477312 source:c:\users\si\desktop\sofiaprogra\parcial 2\arreglobidi3verisonnuestra\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
